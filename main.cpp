@@ -27,8 +27,8 @@ int main(int argc, char **argv) {
     }
     fin.close();
 
-    ofstream fout(argv[3]);
-    ofstream fout2(argv[4]);
+    ofstream fout(argv[2]);
+    ofstream fout2(argv[3]);
     if (!fout) {
         return -1;
     }
