@@ -1,4 +1,4 @@
-//cool comment
+//cooler comment
 #include <iostream>
 #include <fstream>
 
